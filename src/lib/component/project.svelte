@@ -47,7 +47,7 @@
 
 
 <div class="container my-4 ">
-<p class="text-3xl text-green-500">Projects</p>
+<p class="text-3xl text-green-500 pt-5">Projects</p>
 <div role="list" class="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 sm:gap-x-6 lg:grid-cols-4 xl:gap-x-8 my-4">
   
   {#each repos as project}

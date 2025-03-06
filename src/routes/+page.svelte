@@ -1,6 +1,7 @@
 <script>
 	import Skills from './../lib/component/skills.svelte';
 	import Project from './../lib/component/project.svelte';
+	import Experience from '$lib/component/experience.svelte';
 
 </script>
 
@@ -20,4 +21,5 @@
     </div>
     <Skills></Skills>
     <Project></Project>
+    <Experience></Experience>
 </main>

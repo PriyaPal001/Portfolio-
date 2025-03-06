@@ -38,7 +38,7 @@
 </script>
 
 <div>
-    <p class="text-3xl text-green-500 mt-4">Skills</p>
+    <p class="text-3xl text-green-500 mt-4 pt-5">Skills</p>
     <div role="list" class="grid grid-cols-4 gap-x-7 gap-y-8 sm:grid-cols-3 sm:gap-x-8 lg:grid-cols-8 xl:gap-x-8 my-4 ">
         {#each talent as skill}
         <div class="inline-flex pb-1">
